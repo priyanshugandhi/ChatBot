@@ -1,5 +1,5 @@
 """
-ChatterBot is a machine learning, conversational dialog engine.
+ChatterBot is machine learning, conversational dialog engine.
 """
 from .chatterbot import ChatBot
 

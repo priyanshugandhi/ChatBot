@@ -3,7 +3,7 @@
 
 ChatBot is a machine-learning based conversational dialog engine build in
 Python which makes it possible to generate responses based on collections of
-known conversations. The language independent design of ChatterBot allows it
+known conversations. The language independent design of ChatBot allows it
 to be trained to speak any language.
 
 
@@ -41,9 +41,7 @@ chatbot.get_response("Hello, how are you today?")
 ChatBot comes with a data utility module that can be used to train chat bots.
 At the moment there is three languages, English, Spanish and Portuguese training data in this module. Contributions
 of additional training data or training data in other languages would be greatly
-appreciated. Take a look at the data files in the
-[chatterbot-corpus](https://github.com/gunthercox/chatterbot-corpus)
-package if you are interested in contributing.
+appreciated. 
 
 ```
 # Train based on the english corpus

@@ -29,9 +29,9 @@ def tokenizer_fn(iterator):
   return (x.split(" ") for x in iterator)
 
 def create_csv_iter(filename):
-  """
+  ""
   Returns an iterator over a CSV file. Skips the header.
-  """
+  ""
   with open(filename) as csvfile:
     reader = csv.reader(csvfile)
     # Skip the header

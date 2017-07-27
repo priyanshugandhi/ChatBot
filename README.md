@@ -11,8 +11,10 @@ An example of typical input would be something like this:
 
 > **user:** Good morning! How are you doing?  
 > **bot:**  I am doing very well, thank you for asking.  
-> **user:** You're welcome.  
-> **bot:** Do you like hats?  
+> **user:** Where can find C++ tutorials ?  
+> **bot:** hackr.io/tutorials/learn-c-plus-plus 
+
+
 
 ## How it works
 

@@ -2,7 +2,6 @@ from unittest import TestCase
 from unittest import SkipTest
 from chatterbot import ChatBot
 
-
 class ChatBotTestCase(TestCase):
 
     def setUp(self):

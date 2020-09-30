@@ -10,8 +10,8 @@ to be trained to speak any language.
 An example of typical input would be something like this:
 
 > **user:** Good morning! How are you doing?  
-> **bot:**  I am doing very well, thank you for asking.  
-> **user:** You're welcome.  
+> **bot:**  I am doing very well, thank you for asking, how you doing.
+> **user:** I am good, you're welcome.  
 > **bot:**  How can I help you?
 
 

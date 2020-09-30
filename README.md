@@ -1,5 +1,5 @@
 
-# ChatBot
+# The Amazing ChatBot
 
 ChatBot is a machine-learning based conversational dialog engine build in
 Python which makes it possible to generate responses based on collections of
@@ -13,6 +13,11 @@ An example of typical input would be something like this:
 > **bot:**  I am doing very well, thank you for asking.  
 > **user:** You're welcome.  
 > **bot:**  How can I help you?
+.
+.
+.
+.
+.
 
 
 

@@ -6,7 +6,7 @@ from collections import Counter
 from string import punctuation
 from math import sqrt
  
-# initialize the connection to the database
+# initialize the connection to the database with interner connection:----
 connection = sqlite3.connect('chatbot.sqlite')
 cursor = connection.cursor()
  
@@ -48,10 +48,10 @@ def get_words(text):
  
 B = 'Hello!'
 while True:
-    # output bot's message
+    # output bot's messages
     print('B: ' + B)
-    # ask for user input; if blank line, exit the loop
-    H = raw_input('H: ').strip()
+    # ask for user input; if blank line, exit the loop it save your command
+    H = input('H: ').strip()
     if H == '':
         break
     # store the association between the bot's message words and the user's response

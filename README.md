@@ -1,6 +1,6 @@
 
 # ChatBot
-#it's an amazing chatbot and very pratical it is
+#it's an amazing chatbot and very practical it is
 
 ChatBot is a machine-learning based conversational dialog engine build in
 Python which makes it possible to generate responses based on collections of

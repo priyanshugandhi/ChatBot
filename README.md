@@ -4,7 +4,7 @@
 ChatBot is a machine-learning based conversational dialog engine build in
 Python which makes it possible to generate responses based on collections of
 known conversations. The language independent design of ChatBot allows it
-to be trained to speak any language. so it is user-friendly.
+to be trained to speak any language So it is user-friendly.
 
 
 An example of typical input would be something like this:
